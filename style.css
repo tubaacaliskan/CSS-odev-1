@@ -1,0 +1,77 @@
+
+.navbar {
+    
+}
+
+.logo   {
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.list ul  {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-inline-start: 0px;
+     
+}
+
+.list ul li {
+    margin: 5px;
+    padding: 0;
+    
+}
+
+.section h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.section-about h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.section-product h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.section p {
+
+    text-align: center;
+}
+
+
+.section h2 {
+    color: rgb(170, 116, 46);
+    text-align: center;
+}
+
+.section-about h2 {
+    color: rgb(170, 116, 46);
+}
+
+.section ul {
+    font-weight: bold;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.product-list {
+    
+    display: flex;
+    justify-content: center;
+}
+
+.product-list li img {
+    width: 450px;
+    height: 550px;
+}
+
